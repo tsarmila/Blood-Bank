@@ -72,7 +72,7 @@ foreach($results as $result)
     <div id="home">
         <!-- navigation -->
         <div class="main-top py-1" style="padding: 5px 0;">
-            <nav class="navbar navbar-expand-lg navbar-light fixed-navi" style="min-height: 50px; padding: 5px 10px;>
+            <nav class="navbar navbar-expand-lg navbar-light fixed-navi" style="min-height: 50px; padding: 5px 10px;">
                 <div class="container">
                     <!-- logo -->
                     <h1>
